@@ -1,0 +1,6 @@
+{
+  "name": "Sayyed Studios",
+  "description": "VR camera passthrough with floating virtual theater plane by Sayyed Studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
